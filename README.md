@@ -1,15 +1,6 @@
-# wmxzCore
-WMXZ core library
+# wmxzTask
+WMXZ task scheduling library
 
-This library is a light wmxz OS
+It allows basic async job handling and timed job execution
 
-It introduces basic async job handling and allows timed job execution
-
-some routines are wmxz moodified vesrions of the official PJRC core library, mainly
-
-- dma
-- i2s
-- iic
-- spi
-
-and some other functions fould useful
+Original vesrion for Teensy 3.x
